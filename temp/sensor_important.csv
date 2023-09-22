@@ -1,0 +1,17 @@
+sensor,feature_importance
+tGravityAcc,0.46639666
+fBodyAcc,0.25568104
+tBodyAccJerkMag,0.0645575
+fBodyAccJerk,0.060340285
+fBodyGyro,0.037533678
+tBodyGyro,0.029725827
+tBodyAcc,0.02786098
+tBodyAccJerk,0.018807787
+tBodyAccMag,0.018729199
+angle,0.007620826
+fBodyBodyAccJerkMag,0.005380112
+tBodyGyroJerk,0.0034846924
+fBodyAccMag,0.00039362302
+fBodyBodyGyroJerkMag,0.0
+fBodyBodyGyroMag,0.0
+tBodyGyroMag,0.0

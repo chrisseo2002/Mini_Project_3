@@ -1,0 +1,11 @@
+feature_name
+"tGravityAcc-arCoeff()-Z,2"
+"fBodyAcc-bandsEnergy()-1,8.2"
+tBodyAccJerkMag-iqr()
+"fBodyAcc-bandsEnergy()-1,8.1"
+"tGravityAcc-arCoeff()-Y,1"
+tGravityAcc-mean()-Y
+fBodyAccJerk-maxInds-X
+fBodyGyro-maxInds-Z
+tGravityAcc-min()-Y
+"tGravityAcc-arCoeff()-Y,3"
